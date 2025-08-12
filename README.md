@@ -26,9 +26,3 @@ I am a hobby sim racer that is dabbling into Software Engineering aiming to expl
 <p align="center">
 Next to me is the wonderful Mokka, an Australian Shepard, who loves nothing more than to bother me when I am busy.
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrt9tv&show_icons=true&theme=gotham&hide_border=true&icon_color=FF8B5C&title_color=008080&text_color=008080" alt="GitHub Stats" />
-</p
