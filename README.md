@@ -11,11 +11,11 @@
 <!-- Buttons below landing profile image -->
 <p align="center">
   <!-- Github-->
-  <a href="https://github.com/douevenliftbro"><img src="https://img.shields.io/badge/douevenliftbro-teal?logo=github&style=for-the-badge" alt="GitHub" /></a>
+  <a href="https://github.com/mrt9tv"><img src="https://img.shields.io/badge/MRT9-teal?logo=github&style=for-the-badge" alt="GitHub" /></a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/mrt9tv/"> <img src="https://img.shields.io/badge/Instagram-orange?logo=Instagram&style=for-the-badge" alt="Instagram" /></a>
   <!-- Discord -->
-  <a href="https://img.shields.io/discord/:1332129006853554329"><img src="https://img.shields.io/badge/Discord-lightgrey?logo=Discord&style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://discord.gg/wynrF6m7"><img src="https://img.shields.io/badge/Discord-lightgrey?logo=Discord&style=for-the-badge" alt="Discord" /></a>
 </p>
 
 <h1 align="center">Welcome to the MRT#9 GitHub page</h1>
