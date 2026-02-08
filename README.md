@@ -26,3 +26,7 @@ I am a hobby sim racer that is dabbling into Software Engineering aiming to expl
 <p align="center">
 Next to me is the wonderful Mokka, an Australian Shepard, who loves nothing more than to bother me when I am busy.
 </p>
+
+<p align="center">
+Currently running race predictions for the <a href="http://www.gta.is/islmot">Icelandic Sim-Racing Championship 2025-2026</a> at <a href="https://www.abrt.com/mokka/">ABRT.com/Mokka</a> - using ML and Monte Carlo simulations, currently at 60% accuracy with limited race data to work with after 2 rounds.
+</p>
