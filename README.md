@@ -2,9 +2,9 @@
 
 <!-- Landing Page image -->
 <p align="center">
-  <img src="https://github.com/douevenliftbro/douevenliftbro/blob/main/Driver-and-Dog_Sunset"
-       alt="Driver and Dog at Sunset"
-       width="300"
+  <img src="https://github.com/mrt9tv/mrt9tv/blob/main/Driver-and-Dog_Sunset_v2.png"
+       alt="Driver and Dog at Sunset v2"
+       width="600"
        style="pointer-events: none;" />
 </p>
 
