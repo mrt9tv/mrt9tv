@@ -10,8 +10,8 @@
 
 <!-- Buttons below landing profile image -->
 <p align="center">
-  <!-- Github-->
-  <a href="https://github.com/mrt9tv"><img src="https://img.shields.io/badge/MRT9-teal?logo=github&style=for-the-badge" alt="GitHub" /></a>
+  <!-- Homepage -->
+  <a href="https://www.mrt9.com"><img src="https://img.shields.io/badge/Website-teal?logo=Homepage&style=for-the-badge" alt="Website" /></a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/mrt9tv/"> <img src="https://img.shields.io/badge/Instagram-orange?logo=Instagram&style=for-the-badge" alt="Instagram" /></a>
   <!-- Discord -->
@@ -24,9 +24,9 @@
 I am a hobby sim racer that is dabbling into Software Engineering aiming to explore and learn what is possible to do in terms of leveraging telemetry data with simple formulas, complex ones and more.
 </p>  
 <p align="center">
-Next to me is the wonderful Mokka, an Australian Shepard, who loves nothing more than to bother me when I am busy.
+Next to me is the wonderful Mokka, an Australian Shepard, who loves nothing more than to bother me when I am busy. <i>It's fine, I promise.</i>
 </p>
 
 <p align="center">
-Currently running race predictions for the <a href="http://www.gta.is/islmot">Icelandic Sim-Racing Championship 2025-2026</a> at <a href="https://www.abrt.com/mokka/">ABRT.com/Mokka</a> - using ML and Monte Carlo simulations, currently at 60% accuracy with limited race data to work with after 2 rounds.
+Currently running race predictions for the <a href="http://www.gta.is/islmot">Icelandic Sim-Racing Championship 2025-2026</a> at <a href="https://www.abrt.com/mokka/">ABRT.com/Mokka</a> - using ML and Monte Carlo simulations and slowly developing <a href="https://www.github.com/mrt9tv/MRTui">my own iRacing overaly</a>.
 </p>
