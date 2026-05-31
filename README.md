@@ -22,11 +22,9 @@
 
 <p align="center">
 I am a hobby sim racer that is dabbling into Software Engineering aiming to explore and learn what is possible to do in terms of leveraging telemetry data with simple formulas, complex ones and more.
-</p>  
-<p align="center">
-Next to me is the wonderful Mokka, an Australian Shepard, who loves nothing more than to bother me when I am busy. <i>It's fine, I promise.</i>
+  Next to me is the wonderful Mokka, an Australian Shepard, who loves nothing more than to bother me when I am busy. <i>It's fine, I promise.</i>
 </p>
 
 <p align="center">
-Currently running race predictions for the <a href="http://www.gta.is/islmot">Icelandic Sim-Racing Championship 2025-2026</a> at <a href="https://www.abrt.com/mokka/">ABRT.com/Mokka</a> - using ML and Monte Carlo simulations and slowly developing <a href="https://www.github.com/mrt9tv/MRTui">my own iRacing overaly</a>.
+Currently running race predictions for the <a href="http://www.gta.is/islmot">Icelandic Sim-Racing Championship 2025-2026</a> and <a href="https://www.abrtsetups.com/f4-deildin">Aðalbón F4 Deild S2 2026</a> at <a href="https://www.abrt.com/mokka/">ABRT.com/Mokka</a> <i>(requires subscription currently for the ongoing league)</i> - using ML and Monte Carlo simulations and slowly developing <a href="https://www.mrt9.com">my very own website</a> for the community, showcasing the latest results and statistics from previous races and leagues.
 </p>
